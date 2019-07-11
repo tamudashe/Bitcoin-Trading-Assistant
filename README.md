@@ -1,8 +1,7 @@
-# Bitcoin Notification Project
+# Bitcoin Trading Assistant
 This project provides notifications about Bitcoin prices.
 
-## API used: Coinmarketcap API
-[Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/#)
+## API used: [Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/#)
 
 ## Language used: Python
 
