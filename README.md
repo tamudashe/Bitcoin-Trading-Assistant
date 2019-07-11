@@ -1,16 +1,17 @@
 # Bitcoin Notification Project
 This project provides notifications about Bitcoin prices.
 
-API used: Coinmarketcap API
+## API used: Coinmarketcap API
+[Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/#)
 
-Language used: Python
+## Language used: Python
 
-Modules Used :
+## Modules Used :
 * requests 
 * time 
 * datetime
 
-Get latest bitcoin price:
+### Get latest bitcoin price:
 1. Send an HTTP request
 2. Convert JSON response into a python object
 3. Locate the USD price and convert the string into a number
