@@ -3,9 +3,9 @@ This project provides notifications about Bitcoin prices.
 
 API used: Coinmarketcap API
 
-Modules Used:
-    requests,
-    time,
-    datetime
+Modules Used:requests, time, datetime
 
-1. Sending an HTTP request using the requests module. requests.get().  All endpoints return data in JSON format.
+Get latest bitcoin price:
+    1a. Send an HTTP request
+    1b. Convert JSON response into a python object
+    1c. Locate the USD price and convert the string into a number
