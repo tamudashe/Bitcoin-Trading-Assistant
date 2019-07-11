@@ -4,7 +4,7 @@ This project provides notifications about Bitcoin prices. Assists in when to buy
 
 ## API used: [Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/#)
 
-## Language used: Python
+## Technology used: Python 3
 
 ## Modules Used :
 * requests 
