@@ -1,5 +1,5 @@
 # Bitcoin
-This project provides notifications about Bitcoin prices
+This project provides notifications about Bitcoin prices.
 
 API used: Coinmarketcap API
 Modules Used:
