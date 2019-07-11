@@ -1,5 +1,6 @@
 # Bitcoin Trading Assistant
-This project provides notifications about Bitcoin prices.
+This project provides notifications about Bitcoin prices. Assists in when to buy or when to sell depending on the set threshold.
+
 
 ## API used: [Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/#)
 
