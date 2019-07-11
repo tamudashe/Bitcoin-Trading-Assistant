@@ -8,4 +8,4 @@ Modules Used:
     time,
     datetime
 
-1. Sending an HTTP request using the requests module. // requests.get() // returns json responce.
+1. Sending an HTTP request using the requests module. requests.get().  All endpoints return data in JSON format.
